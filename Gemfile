@@ -6,7 +6,6 @@ gem 'jquery-rails'
 gem 'sass-rails'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier'
-gem 'bootsnap'
 gem 'bootstrap-sass'
 gem 'sqlite3', '~>1.3.6'
 
